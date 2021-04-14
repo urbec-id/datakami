@@ -1,5 +1,4 @@
-[
-    {
+{
         "id" : 1,
         "title": "hello world",
         "content": "hello world content from github",
@@ -12,5 +11,4 @@
         "content": "hello urbec content from github",
         "image": "wait oke urbec",
         "created_at": "Januari 29, 2021"
-    }
-]
+}

@@ -3,12 +3,14 @@
         "id" : 1,
         "title": "hello world",
         "content": "hello world content from github",
-        "image": "wait oke"
+        "image": "wait oke",
+        "created_at": "Januari 31, 2021"
     },
     {
         "id" : 2,
         "title": "hello urbec",
         "content": "hello urbec content from github",
-        "image": "wait oke urbec"
+        "image": "wait oke urbec",
+        "created_at": "Januari 29, 2021"
     }
 ]

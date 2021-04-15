@@ -1,5 +1,5 @@
 [
-    {
+   {
         "id" : 1,
         "title": "APAKAH SENIMAN MASIH DI PANDANG SEBELAH MATA OLEH RAKYAT INDONESIA?",
         "content": "hello world content from github",
@@ -12,5 +12,5 @@
         "content": "hello urbec content from github",
         "image": "wait oke urbec",
         "created_at": "Januari 29, 2021"
-    }
+}
 ]
